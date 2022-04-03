@@ -1,0 +1,45 @@
+body {
+  font-family: verdana;
+}
+
+.navbar {
+  background-color: #d6eaf8;
+}
+
+.quem-somos {
+  background-color: azure;
+  color: gray;
+  font-size: 20px;
+  margin-top: 5px;
+}
+
+.margin {
+  padding-top: 10px;
+  padding-bottom: 50px;
+}
+
+.rounded-circle {
+  border-radius: 800px;
+}
+
+.parceiros {
+  background-color: #bfc9ca;
+  color: grey;
+  margin-top: 5px;
+}
+
+.servicos {
+  color: gray;
+  background-color: #bfc9ca;
+  margin-top: 5px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.bg-footer {
+  background-color: black;
+  color: white;
+  margin: 50px;
+}
